@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "memory-tracker": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--directory",
+        "f:\\Agentic AI\\Memory_tracker_mcp",
+        "python",
+        "server.py"
+      ]
+    }
+  }
+}
